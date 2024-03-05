@@ -7,7 +7,7 @@ description: |
   Passed to `Datatype.TweenInfo|TweenInfo.new` to control the motion of a
   `Class.Tween`. Each easing style is described in a graph below. The X axis is
   a value passed to `Class.TweenService:GetValue()` and the Y axis is the value
-  returned.
+  returne d.
 
   This diagram reflects the various styles with
   `Enum.EasingDirection|Enum.EasingDirection.In`. Note that for
